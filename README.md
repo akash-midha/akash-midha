@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=50&pause=1000&color=3CBDB1&background=1A1B27&center=true&vCenter=true&width=1050&height=150&lines=Hey!+I+am+Akash+Midha;SDE-1+at+Amdocs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=50&pause=1000&color=3CBDB1&background=1A1B27&center=true&vCenter=true&width=1050&height=150&lines=Hey!+I+am+Akash+Midha;NSUT'23,+SDE-1+at+Amdocs)](https://git.io/typing-svg)
 
-## 💫 About Me:
-<p>Hello, I'm Akash Midha, currently working in Amdocs as Associate Software Engineer (SDE-1)focusing on **frontend development**. I have a strong command over Data Structures and Algorithms and had solved more than 500 problems across verious platforms.
+## 🧑🏻‍💻 About Me:
+<p>Hello, I'm <strong>Akash Midha</strong>, currently working in <strong>Amdocs as Associate Software Engineer (SDE-1)</strong>focusing on frontend development. I have a strong command over Data Structures and Algorithms and had solved more than 500 problems across various platforms.
 
 <p>
   I am passionate about building scalable and high-performance applications, and I continuously strive to improve my skills to meet the evolving needs of the tech industry.
@@ -11,50 +11,20 @@
   At my workplace - Amdocs my key responsibilities include:
 </p>
 <ul>
-  <li><strong>Building and maintaining responsive user interfaces</strong> for both web and mobile applications.</li>
-  <li><strong>Managing application state</strong> using **Redux** for web and **BLoC** for mobile applications.</li>
+  <li>Building and maintaining responsive user interfacesfor both <strong>web and mobile applications.</strong></li>
   <li><strong>Optimizing performance</strong> to ensure smooth user experience across web and mobile platforms.</li>
   <li>Collaborating with cross-functional teams to deliver high-quality features.</li>
   <li>Ensuring clean, efficient, and maintainable code to support long-term project goals.</li>
 </ul>
  </p>
 
-## 👨‍💻 About Me
-
-At **Amdocs**, I work as an **SDE-1**, focusing on **frontend development**. My primary technologies include **JavaScript**, **React**, **Redux**, and **Flutter**.
-
-<p>
-  My key responsibilities include:
-</p>
-
-<ul>
-  <li><strong>Building and maintaining responsive user interfaces</strong> for both web and mobile applications.</li>
-  <li><strong>Managing application state</strong> using **Redux** for web and **BLoC** for mobile applications.</li>
-  <li><strong>Optimizing performance</strong> to ensure smooth user experience across web and mobile platforms.</li>
-  <li>Collaborating with cross-functional teams to deliver high-quality features.</li>
-  <li>Ensuring clean, efficient, and maintainable code to support long-term project goals.</li>
-</ul>
-
-<p>
-  I am passionate about building scalable and high-performance applications, and I continuously strive to improve my skills to meet the evolving needs of the tech industry.
-</p>
-
 ## 🎓 Education
 
-### B.Tech in Electrical Engineering
-**Netaji Subhas University of Technology (NSUT, formerly NSIT)**  
-*2019 - 2023*
-*CGPA - 7.99*
+### B.Tech from Netaji Subhas University of Technology (NSUT, formerly NSIT)
+<p>2019-2023</p>
+<p>CGPA - 7.99</p>
 
-<p align="center">
-  <a href="https://www.nsut.ac.in/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/NSUT_Logo.png" alt="NSUT Logo" title="NSUT Official Website" width="200"/>
-  </a>
-</p>
-
-### B.Tech in Electrical Engineering
-
-            
+         
 <div align="center" >              
 <a href="https://drive.google.com/file/d/1Q9zQHxcprC0YZvVfJfC9vxNGBM5eCZBP/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/resume-329d93?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
@@ -75,6 +45,7 @@ At **Amdocs**, I work as an **SDE-1**, focusing on **frontend development**. My 
 
 ## 💻 Skills:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -98,8 +69,12 @@ At **Amdocs**, I work as an **SDE-1**, focusing on **frontend development**. My 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047A3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-%23000000.svg?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0A0A.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Octane](https://img.shields.io/badge/Octane-%2300B5E2.svg?style=for-the-badge&logo=octane&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-midha&show_icons=true&locale=en&layout=compact" alt="akash-midha" /></p>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

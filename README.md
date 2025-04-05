@@ -11,7 +11,7 @@
   At my workplace - Amdocs my key responsibilities include:
 </p>
 <ul>
-  <li>Building and maintaining responsive user interfacesfor both <strong>web and mobile applications.</strong></li>
+  <li>Building and maintaining responsive user interfaces for both <strong>web and mobile applications.</strong></li>
   <li><strong>Optimizing performance</strong> to ensure smooth user experience across web and mobile platforms.</li>
   <li>Collaborating with cross-functional teams to deliver high-quality features.</li>
   <li>Ensuring clean, efficient, and maintainable code to support long-term project goals.</li>

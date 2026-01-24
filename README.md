@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=50&pause=1000&color=3CBDB1&background=1A1B27&center=true&vCenter=true&width=1050&height=150&lines=Hey!+I+am+Akash+Midha;NSUT'23,+SDE-1+at+Amdocs)](https://git.io/typing-svg)
 
 ## 🧑🏻‍💻 About Me:
-<p>Hello, I'm <strong>Akash Midha</strong>, currently working in <strong>Amdocs as Software Developer </strong>focusing on frontend development. I have a strong command over Data Structures and Algorithms and had solved more than 500 problems across various platforms.
+<p>Hello, I'm <strong>Akash Midha with 2.5 years of industry experience</strong>, currently working in <strong>Amdocs as Software Developer </strong>focusing on frontend development. I have a strong command over Data Structures and Algorithms and had solved more than 500 problems across various platforms.
 
 <p>
   I am passionate about building scalable and high-performance applications, and I continuously strive to improve my skills to meet the evolving needs of the tech industry.
@@ -22,7 +22,7 @@
 
 ### Bachelor of Technology (B.Tech) from Netaji Subhas University of Technology (NSUT, formerly NSIT)
 <p><strong>2019-2023</strong></p>
-<p><strong>CGPA - 7.99</strong></p>
+<p><strong>CGPA - 8/10</strong></p>
 
          
 <div>              

@@ -76,6 +76,7 @@
 ![Jira](https://img.shields.io/badge/Jira-%230A0A0A.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Octane](https://img.shields.io/badge/Octane-%2300B5E2.svg?style=for-the-badge&logo=octane&logoColor=white)
 
-
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
